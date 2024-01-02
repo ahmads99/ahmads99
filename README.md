@@ -9,8 +9,6 @@
  <img src="https://img.shields.io/github/followers/ahmads99?label=followers&style=social"/>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ## About Me
 
 - 🎓 Enthusiastic student in the realm of Software Engineering, dedicated to perpetual growth.
