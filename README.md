@@ -13,14 +13,14 @@
 
 ## About Me
 
-- 🎓 Studying Software Engineering to continuously enhance my skills.
-- 💻 Currently working as a Freelancer, crafting innovative solutions.
+- 🎓 Enthusiastic student in the realm of Software Engineering, dedicated to perpetual growth.
+- 💻 Freelance Innovator. Crafting groundbreaking solutions as a Freelancer, merging creativity with functionality.
 - 🌱 Always eager to learn and explore new technologies.
 
 ## What I Do
 
-- 💡 Turn ideas into reality with elegant code and intuitive design.
-- 🌐 Develop responsive and interactive web applications.
+- 💡 Code artisan. transforming concepts into reality through elegant code and intuitive design.
+- 🌐 Specializing in the development of responsive and interactive web applications.
 - 🛠️ Craft dynamic user experiences with a focus on performance and usability.
 
 <h3 align="left">Connect with me:</h3>
