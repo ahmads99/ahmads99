@@ -5,8 +5,8 @@
   Front End Web Dev | Software Engineer | Web Developer
 </p>
 <p align="center">  
- <img src="https://komarev.com/ghpvc/?username=ahmads99&color=blue" alt="dindarosalin" />
- <img src="https://img.shields.io/github/followers/dindarosalin?label=followers&style=social"/>
+ <img src="https://komarev.com/ghpvc/?username=ahmads99&color=blue" alt="ahmads99" />
+ <img src="https://img.shields.io/github/followers/ahmads99?label=followers&style=social"/>
 </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
