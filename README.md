@@ -11,15 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Balinesia**
+## About Me
 
-- 🌱 I’m currently learning **MongoDB, Express, ReactJS, and NodeJS**
+- 🎓 Studying Software Engineering to continuously enhance my skills.
+- 💻 Currently working as a Freelancer, crafting innovative solutions.
+- 🌱 Always eager to learn and explore new technologies.
 
-- 💬 Ask me about **Web Developer**
+## What I Do
 
-- 📫 How to reach me **benzodiahmad99@gmail.com**
-
-- ⚡ Fun fact **I am a person who really enjoys it**
+- 💡 Turn ideas into reality with elegant code and intuitive design.
+- 🌐 Develop responsive and interactive web applications.
+- 🛠️ Craft dynamic user experiences with a focus on performance and usability.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
